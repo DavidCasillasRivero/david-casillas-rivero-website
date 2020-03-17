@@ -1,0 +1,13 @@
+.main {
+  position: absolute;
+  bottom: 10px;
+  display: flex;
+}
+
+.item {
+  margin: 0 10px;
+}
+
+.link {
+  color: grey;
+}
